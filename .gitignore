@@ -5,4 +5,5 @@
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
+06-smart-home-energy-forecasting/data/household_power_consumption.txt
 .DS_Store
