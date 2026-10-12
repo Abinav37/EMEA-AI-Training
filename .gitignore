@@ -3,10 +3,14 @@
 .env
 **/.env
 __pycache__/
+**/__pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 06-smart-home-energy-forecasting/data/household_power_consumption.txt
 07-credit-card-fraud-detection/data/creditcard.csv
 07-credit-card-fraud-detection/.venv/
 07-credit-card-fraud-detection/artifacts/
+08-banking-intent-classification/data/*.csv
+08-banking-intent-classification/.venv/
+08-banking-intent-classification/artifacts/
 .DS_Store
