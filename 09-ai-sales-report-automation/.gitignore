@@ -1,0 +1,24 @@
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python cache and virtual environment
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+.pytest_cache/
+**/.pytest_cache/
+*.py[cod]
+
+# Local project outputs
+reports/*.md
+reports/*.csv
+reports/*.txt
+data/*.csv
+data/*.xlsx
+data/*.xls
+
+# Editor files
+.DS_Store
